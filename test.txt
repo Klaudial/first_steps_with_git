@@ -2,6 +2,7 @@ testing 1 2 3
 
 King Arthur and his Knights of the Round Table
 
+Bernadette the Valiant
 Lancelot
 	Gawaine
 	Agravaine

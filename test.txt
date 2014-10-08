@@ -7,3 +7,4 @@ Gawaine
 Greth
 Tristan
 Bors
+Lucan

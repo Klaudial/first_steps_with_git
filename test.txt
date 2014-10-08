@@ -6,3 +6,4 @@ Lancelot
 Gawaine
 Tristan
 Reynard
+Bors
